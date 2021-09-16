@@ -1,8 +1,8 @@
-# 
+# PREDIS
 
 <img src='https://avatars.githubusercontent.com/u/82843835?s=200&v=4' height=100px/>
 
-Cette page contient tous les projets développés par la Plateforme de REcherche, Données, Intelligence et Santé (PREDIS).
+La Plateforme de REcherche, Données, Intelligence et Santé (PREDIS) se veut une équipe technique multidisciplinaire oeuvrant dans le développement d'outils d'analyse recourant aux derniers avancements du domaine de l'intelligence artificielle. Elle interface le domaine de l'IA et  celui de la santé. C'est dans un esprit de partage de ressources à travers différents centres de recherches du domaine de la santé qu'est née la plateforme PREDIS.
 
 ---
 ## Centre de recherches et instituts partenaires
